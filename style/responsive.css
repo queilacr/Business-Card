@@ -1,0 +1,12 @@
+@media (max-width: 900px){
+    body{
+        font-size: 100%;
+    }
+}
+
+@media (max-width:500px){
+    body{
+        font-size: 30%;
+    }
+
+}

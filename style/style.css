@@ -1,0 +1,29 @@
+body{
+    background-image: url("../wallpaper/backgorund.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 90%;
+    background-color: black;
+    font-size: 200%;
+    
+}
+#nome{
+    margin-left: 10%;
+    font-family: 'Courgette', cursive;
+}
+#dados{
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-left: 15%;
+}
+a{
+    text-decoration: none;
+    color: #000000FF;
+    
+
+}
+ul{
+    list-style: none;
+    display: list-item;
+    
+}
